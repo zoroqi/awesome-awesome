@@ -1,0 +1,75 @@
+[submodule "AntBranch-awesome-github"]
+	path = AntBranch-awesome-github
+	url = git@github.com:AntBranch/awesome-github.git
+[submodule "Awesome-Windows-Awesome"]
+	path = Awesome-Windows-Awesome
+	url = git@github.com:Awesome-Windows/Awesome.git
+[submodule "agarrharr-awesome-cli-apps"]
+	path = agarrharr-awesome-cli-apps
+	url = git@github.com:agarrharr/awesome-cli-apps.git
+[submodule "akullpp-awesome-java"]
+	path = akullpp-awesome-java
+	url = git@github.com:akullpp/awesome-java.git
+[submodule "alebcay-awesome-shell"]
+	path = alebcay-awesome-shell
+	url = git@github.com:alebcay/awesome-shell.git
+[submodule "avelino-awesome-go"]
+	path = avelino-awesome-go
+	url = git@github.com:avelino/awesome-go.git
+[submodule "awesomedata-awesome-public-datasets"]
+	path = awesomedata-awesome-public-datasets
+	url = git@github.com:awesomedata/awesome-public-datasets.git
+[submodule "bayandin-awesome-awesomeness"]
+	path = bayandin-awesome-awesomeness
+	url = git@github.com:bayandin/awesome-awesomeness.git
+[submodule "goabstract-Awesome-Design-Tools"]
+	path = goabstract-Awesome-Design-Tools
+	url = git@github.com:goabstract/Awesome-Design-Tools.git
+[submodule "herrbischoff-awesome-macos-command-line"]
+	path = herrbischoff-awesome-macos-command-line
+	url = git@github.com:herrbischoff/awesome-macos-command-line.git
+[submodule "heynickc-awesome-ddd"]
+	path = heynickc-awesome-ddd
+	url = git@github.com:heynickc/awesome-ddd.git
+[submodule "iCHAIT-awesome-macOS"]
+	path = iCHAIT-awesome-macOS
+	url = git@github.com:iCHAIT/awesome-macOS.git
+[submodule "jaywcjlove-awesome-mac"]
+	path = jaywcjlove-awesome-mac
+	url = git@github.com:jaywcjlove/awesome-mac.git
+[submodule "kuchin-awesome-cto"]
+	path = kuchin-awesome-cto
+	url = git@github.com:kuchin/awesome-cto.git
+[submodule "leereilly-games"]
+	path = leereilly-games
+	url = git@github.com:leereilly/games.git
+[submodule "pingcap-awesome-database-learning"]
+	path = pingcap-awesome-database-learning
+	url = git@github.com:pingcap/awesome-database-learning.git
+[submodule "rust-unofficial-awesome-rust"]
+	path = rust-unofficial-awesome-rust
+	url = git@github.com:rust-unofficial/awesome-rust.git
+[submodule "serhii-londar-open-source-mac-os-apps"]
+	path = serhii-londar-open-source-mac-os-apps
+	url = git@github.com:serhii-londar/open-source-mac-os-apps.git
+[submodule "sindresorhus-awesome"]
+	path = sindresorhus-awesome
+	url = git@github.com:sindresorhus/awesome.git
+[submodule "soruly-awesome-acg"]
+	path = soruly-awesome-acg
+	url = git@github.com:soruly/awesome-acg.git
+[submodule "taowen-awesome-lowcode"]
+	path = taowen-awesome-lowcode
+	url = git@github.com:taowen/awesome-lowcode.git
+[submodule "thibmaek-awesome-raspberry-pi"]
+	path = thibmaek-awesome-raspberry-pi
+	url = git@github.com:thibmaek/awesome-raspberry-pi.git
+[submodule "veggiemonk-awesome-docker"]
+	path = veggiemonk-awesome-docker
+	url = git@github.com:veggiemonk/awesome-docker.git
+[submodule "vinta-awesome-python"]
+	path = vinta-awesome-python
+	url = git@github.com:vinta/awesome-python.git
+[submodule "webpro-awesome-dotfiles"]
+	path = webpro-awesome-dotfiles
+	url = git@github.com:webpro/awesome-dotfiles.git
