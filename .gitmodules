@@ -73,3 +73,6 @@
 [submodule "webpro-awesome-dotfiles"]
 	path = webpro-awesome-dotfiles
 	url = git@github.com:webpro/awesome-dotfiles.git
+[submodule "awesome-modernization"]
+	path = awesome-modernization
+	url = git@github.com:zoroqi/awesome-modernization.git
