@@ -76,3 +76,6 @@
 [submodule "awesome-modernization"]
 	path = awesome-modernization
 	url = git@github.com:zoroqi/awesome-modernization.git
+[submodule "analysis-tools-dev-static-analysis"]
+	path = analysis-tools-dev-static-analysis
+	url = git@github.com:analysis-tools-dev/static-analysis.git
